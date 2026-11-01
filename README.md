@@ -1,38 +1,60 @@
-<div align="center">
+# AURELIA – Luxury Watch Collection
 
-# AURELIA
+**Discover timeless elegance and premium craftsmanship.**
 
-### Time, kept deliberately.
+AURELIA is a luxury watch e-commerce website featuring an elegant black-and-gold design, premium watch collections, and a modern shopping experience.
 
+## 🌐 Live Demo
 
-</div>
+[View Live Website](https://ankekavya.github.io/landingPage/)
+
+## ✨ Features
+
+- Premium luxury watch collection
+- Product category filtering
+- Trending watches carousel
+- Product details popup
+- Shopping cart functionality
+- User sign-in and sign-up
+- Newsletter subscription
+- Customizable website theme
+- Responsive design
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+
+## 📂 Project Structure
+
+```text
+landingPage/
+│
+├── index.html
+├── styles.css
+├── app.js
+└── README.md
+```
+
+## 🚀 How to Run Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/ankekavya/landingPage.git
+```
+
+2. Open the project folder.
+3. Open `index.html` in your browser.
+
+## 👩‍💻 Developer
+
+**Kavya Sree Anke**
+
+GitHub: [@ankekavya](https://github.com/ankekavya)
 
 ---
 
-## The page
-- **Hero** — auto-rotating carousel of trending pieces, one headline
-- **Features / specs** — collection filters across 7 watch categories (Chronograph, Dress, Vintage, Minimalist, Field, Sport, Automatic)
-- **Gallery** — click any watch for a detail view with multiple image angles
-- **Reviews** — star rating + review count on every product
-- **Price + Buy Now** — cart, checkout, and order confirmation
-- **FAQ + Footer**
-
-## Screenshots
-
-**Desktop view**
-
-<img src="Screenshots/screenshot-desktop.png" width="500" alt="Aurelia desktop view">
-
-**Mobile view**
-
-<img src="Screenshots/screenshot-mobile.jpg" width="220" alt="Aurelia mobile view">
-
-## Design notes
-Product chosen: luxury watch
-References: Pexels (product photography), Awwwards-style dark/gold editorial layout
-Signature effect recreated: circular "bezel" frame motif around product imagery + auto-rotating hero carousel — built with AI assistance.
-
-## Stack
-HTML5 · CSS3 · React (via CDN, no build step) · Clerk authentication · Razorpay-ready checkout · GitHub Pages
-
-
+*Designed to bring timeless luxury to your everyday style.*
