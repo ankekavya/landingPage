@@ -17,15 +17,7 @@
 - **Price + Buy Now** — cart, checkout, and order confirmation
 - **FAQ + Footer**
 
-## Screenshots
 
-**Desktop view**
-
-<img src="Screenshots/screenshot-desktop.png" width="500" alt="Aurelia desktop view">
-
-**Mobile view**
-
-<img src="Screenshots/screenshot-mobile.jpg" width="220" alt="Aurelia mobile view">
 
 ## Design notes
 Product chosen: luxury watch
