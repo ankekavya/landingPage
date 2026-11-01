@@ -7,6 +7,13 @@ AURELIA is a luxury watch e-commerce website featuring an elegant black-and-gold
 ## 🌐 Live Demo
 
 [View Live Website](https://ankekavya.github.io/landingPage/)
+## 📸 Website Screenshots
+
+### Desktop View
+![AURELIA Desktop](Screenshots/desktop.png)
+
+### Mobile View
+![AURELIA Mobile](Screenshots/mobile.png)
 
 ## ✨ Features
 
